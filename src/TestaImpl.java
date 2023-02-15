@@ -3,6 +3,8 @@ import Controler.ControlePrincipal;
 import Model.*;
 import java.util.*;
 
+// Java project for the first time in Spanish
+
 public class TestaImpl {
 
     public static void main(String[] args) {
